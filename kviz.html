@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>POTJERA - kviz</title>
+  <link href="css/kviz.css" rel="stylesheet" type="text/css" />
+  <link href="css/materialize.css" rel="stylesheet" type="text/css" />
+  <link href="css/materialize.min.css" rel="stylesheet" type="text/css" />
+  <link rel="shortcut icon" href="slike/ikona1.png" type="image/x-icon">
+</head>
+
+<body>
+  <div class="container">
+    <div id="informacije">
+      <h3 id="pPozdrav"></h3>
+      <p>Kviz traje <b>1min</b>, vrijeme i kviz kreću klikom na gumb <b>"Kreni"</b>, svako točno pitanje nosi
+        <b>€500</b>.
+      </p>
+      <p>Na kraju kviza, lovac Vam nudi <b>višu</b> i <b>nižu</b> ponudu.</p>
+      <p>Nakon odgovaranja na pitanje, pauza traje <b>3</b> sekunde.</p>
+      <p>Vaš odgovor mora biti najmanje <b>75%</b> točan.</p>
+      <p>Ukoliko ne znate odgovor, pritisnite tipku <b>'Enter'</b> da nastavite.</p>
+      <p>Krećete s <b>€500</b>.</p>
+      <p>Kako bi poslali svoj odgovor na pitanje, pritisnite dugme <b>"Odgovori"</b> ili koristite tipku <b>'Enter'</b>.
+      </p>
+      <center><button onclick="kviz();kreniVrijeme();" id="kreni">KRENI</button></center>
+    </div>
+    <div id="kviz" style="display: none;">
+      <div id="ponude">
+        <p id="visaPonuda"></p>
+        <p id="nizaPonuda"></p>
+        <p id="pPoruka"></p>
+      </div>
+      <div id="kvizIspitivanje">
+        <p id="pPitanje"></p>
+        <input id="odgovor" style="color: white;" placeholder="Odgovor..." onkeydown="jeLiEnter(event)">
+        <p id="pNovac">Zarađeno: <b>500</b>€</p>
+        <p id="stoperica">1:00</p>
+        <p id="pStanje"></p>
+        <button id="bOdgovor" onclick="provjera()">Odgovori</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/kviz.js"></script>
+  <script src="js/materialize.js"></script>
+  <script src="js/materialize.min.js"></script>
+</body>
+
+</html>

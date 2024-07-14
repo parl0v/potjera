@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>POTJERA - prijava</title>
+  <link href="css/prijava.css" rel="stylesheet" type="text/css" />
+  <link href="css/materialize.css" rel="stylesheet" type="text/css" />
+  <link href="css/materialize.min.css" rel="stylesheet" type="text/css" />
+  <link rel="shortcut icon" href="slike/ikona1.png" type="image/x-icon">
+</head>
+
+<body>
+  <div class="marquee">
+    <div class="traka">
+      <div class="naslov">POTJERA POTJERA POTJERA POTJERA POTJERA POTJERA POTJERA POTJERA POTJERA POTJERA</div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="prijava1">
+      <p id="naslov1">Pravila za korisničko ime:</p>
+      <ul>
+        <li>Kvačice <b>nisu</b> dozvoljene.</li>
+        <li>Mala i velika slova su dozvoljena.</li>
+        <li>Donja crta je jedini dozvoljeni alfanumerički znak.</li>
+        <li>Minimalno znakova: 3</li>
+        <li>Maksimalno znakova: 22</li>
+      </ul>
+    </div>
+    <div class="prijava2">
+      <input id="kIme" placeholder="Mara_Jipp" onkeydown="jeLiEnter(event)">
+      <button onclick=" prijava()" id="gumb">PRIJAVA</button>
+    </div>
+  </div>
+
+  <div class="podnozje">
+    <a href="oLovcima.html"><p id="tekstPodnozje">Mara&Jipp</p></a>
+    <b>KVIZ</b>
+  </div>
+  <script src="js/prijava.js"></script>
+  <script src="js/materialize.js"></script>
+  <script src="js/materialize.min.js"></script>
+</body>
+
+</html>

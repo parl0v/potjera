@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>POTJERA - ploča</title>
+  <link href="css/ploca.css" rel="stylesheet" type="text/css" />
+  <link href="css/materialize.css" rel="stylesheet" type="text/css" />
+  <link href="css/materialize.min.css" rel="stylesheet" type="text/css" />
+  <link rel="shortcut icon" href="slike/ikona1.png" type="image/x-icon">
+</head>
+
+<body>
+  <div class="ploča">
+    <div class="tablice">
+      <div class="tablica" id="tablica1"></div>
+      <div class="tablica" id="tablica2"></div>
+      <div class="tablica" id="tablica3"></div>
+      <div class="tablica" id="tablica4"></div>
+      <div class="tablica" id="tablica5"></div>
+      <div class="tablica" id="tablica6"></div>
+      <div class="tablica" id="tablica7"></div>
+    </div>
+
+    <!-- makni margin bottom možda -->
+    <p id="pPitanje" style="margin-bottom: 220px;">Izaberite jednu od opcija.</p>
+
+    <div class="opcije" id="idOpcije" style="display: none;">
+      <button class="opcija" id="A" onclick="provjeri('A')"></button>
+      <button class="opcija" id="B" onclick="provjeri('B')"></button>
+      <button class="opcija" id="C" onclick="provjeri('C')"></button>
+    </div>
+    <!-- <button class="novo" onclick="novo()">Novo pitanje</button> -->
+  </div>
+  <div class="podnozje">
+    <a href="oLovcima.html"><p id="tekstPodnozje">Mara&Jipp</p></a>
+    <a href="index.html" style="font-size:20px;"><b>KVIZ</b></a>
+  </div>
+  <script src="js/ploca.js"></script>
+  <script src="js/materialize.js"></script>
+  <script src="js/materialize.min.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,907 @@
+{
+  "pitanja": [
+    {
+      "pitanje": "Koje djelo francuskog impresionista uključuje 'Ručak na čamcu'?",
+      "A": "Edouard Manet",
+      "B": "Pierre-Auguste Renoir",
+      "C": "Claude Monet",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "U glazbi, što označava talijanski izraz 'fortissimo'?",
+      "A": "Srednje glasno",
+      "B": "Vrlo jako",
+      "C": "Jako meko",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Tko je prva žena koja je osvojila Nobelovu nagradu?",
+      "A": "Marie Curie",
+      "B": "Rita Levi-Montalcini",
+      "C": "Dorothy Hodgkin",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koje Shakespeareovo djelo uključuje likove Rosencrantz i Guildenstern?",
+      "A": "Romeo i Julija",
+      "B": "Hamlet",
+      "C": "Macbeth",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koji je kemijski simbol za element volfram?",
+      "A": "W",
+      "B": "V",
+      "C": "T",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koji poznati arhitekt je dizajnirao Muzej Guggenheim u Bilbau?",
+      "A": "Frank Gehry",
+      "B": "Zaha Hadid",
+      "C": "I. M. Pei",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "U grčkoj mitologiji, tko je bila božica pobjede?",
+      "A": "Atena",
+      "B": "Nika",
+      "C": "Artemida",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koja je najveća arterija u ljudskom tijelu?",
+      "A": "Aorta",
+      "B": "Karotidna arterija",
+      "C": "Subklavijska arterija",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koje djelo uključuje likove Atticusa Fincha i Boo Radleyja?",
+      "A": "Veliki Gatsby",
+      "B": "Ubiti pticu rugalicu",
+      "C": "Ponos i predrasude",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koji znanstvenik je poznat po predlaganju tri zakona gibanja?",
+      "A": "Galileo Galilei",
+      "B": "Isaac Newton",
+      "C": "Johannes Kepler",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Tko je autor romana 'Rat i mir'?",
+      "A": "Fjodor Dostojevski",
+      "B": "Leo Tolstoj",
+      "C": "Jane Austen",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Tko je napisao dramu 'Hamlet'?",
+      "A": "William Shakespeare",
+      "B": "Christopher Marlowe",
+      "C": "John Milton",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koja je glavna komponenta zraka?",
+      "A": "Kisik",
+      "B": "Dušik",
+      "C": "Ugljikov dioksid",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Tko je autor djela 'Stoljetni čovjek'?",
+      "A": "Gabriel Garcia Marquez",
+      "B": "Leo Tolstoj",
+      "C": "Isabel Allende",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koji je element najzastupljeniji u ljudskom tijelu?",
+      "A": "Kisik",
+      "B": "Vodik",
+      "C": "Ugljik",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Tko je slikao 'Mona Lisu'?",
+      "A": "Vincent van Gogh",
+      "B": "Leonardo da Vinci",
+      "C": "Pablo Picasso",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koja je najveća planina u svijetu?",
+      "A": "Mount Everest",
+      "B": "Kilimanjaro",
+      "C": "Denali (Mount McKinley)",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koja je najveća rijeka u svijetu po protoku vode?",
+      "A": "Niger",
+      "B": "Nil",
+      "C": "Amazona",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Tko je prvi čovjek koji je kročio na Mjesec?",
+      "A": "Buzz Aldrin",
+      "B": "Neil Armstrong",
+      "C": "Yuri Gagarin",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Tko je napisao 'Pismo iz Birmingham zatvora'?",
+      "A": "Martin Luther King Jr.",
+      "B": "Mahatma Gandhi",
+      "C": "Nelson Mandela",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Tko je autor 'Božanstvene komedije'?",
+      "A": "Dante Alighieri",
+      "B": "Petrarca",
+      "C": "Boccaccio",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koja je najveća žlijezda u ljudskom tijelu?",
+      "A": "Želudac",
+      "B": "Jetra",
+      "C": "Štitnjača",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Tko je napisao filozofski traktat 'Tractatus Logico-Philosophicus'?",
+      "A": "Jean-Paul Sartre",
+      "B": "Ludwig Wittgenstein",
+      "C": "Friedrich Nietzsche",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Tko je napisao roman 'Sto godina samoće'?",
+      "A": "Jorge Luis Borges",
+      "B": "Gabriel Garcia Marquez",
+      "C": "Pablo Neruda",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koja je najmanja kost u ljudskom tijelu?",
+      "A": "Koštani čekić",
+      "B": "Koštana ploča",
+      "C": "Koštani kolutić",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Tko je autor slikarskog djela 'Noćna straža'?",
+      "A": "Rembrandt van Rijn",
+      "B": "Vincent van Gogh",
+      "C": "Pablo Picasso",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koji je planet najudaljeniji od Sunca?",
+      "A": "Pluton",
+      "B": "Neptun",
+      "C": "Uran",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Tko je autor romana 'Veliki Gatsby'?",
+      "A": "Ernest Hemingway",
+      "B": "F. Scott Fitzgerald",
+      "C": "John Steinbeck",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Tko je napisao komediju 'Ljudožder vegetarijanac'?",
+      "A": "Miroslav Krleža",
+      "B": "August Šenoa",
+      "C": "Anton Pavlovič Čehov",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Tko je autor romana 'Gospodar prstenova'?",
+      "A": "J.K. Rowling",
+      "B": "J.R.R. Tolkien",
+      "C": "C.S. Lewis",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koji je najviši planinski vrh u Africi?",
+      "A": "Mount Kenya",
+      "B": "Mount Kilimanjaro",
+      "C": "Mount Everest",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Tko je napisao roman 'Ponos i predrasude'?",
+      "A": "Charlotte Brontë",
+      "B": "Jane Austen",
+      "C": "Emily Brontë",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Tko je prvi predsjednik Sjedinjenih Američkih Država?",
+      "A": "George Washington",
+      "B": "Thomas Jefferson",
+      "C": "Abraham Lincoln",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koji je glavni sastojak pive?",
+      "A": "Ječmeni slad",
+      "B": "Pšenica",
+      "C": "Kvasac",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Tko je napisao roman 'U potrazi za izgubljenim vremenom'?",
+      "A": "Franz Kafka",
+      "B": "Marcel Proust",
+      "C": "James Joyce",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koja je najveća država na svijetu po površini?",
+      "A": "SAD",
+      "B": "Kina",
+      "C": "Rusija",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koja je najstarija svjetska religija?",
+      "A": "Kršćanstvo",
+      "B": "Hinduizam",
+      "C": "Budizam",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Tko je osvojio FIFA Svjetsko prvenstvo u nogometu 2018. godine?",
+      "A": "Argentina",
+      "B": "Njemačka",
+      "C": "Francuska",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koja je najveća teniska Grand Slam turnirska nagrada?",
+      "A": "Wimbledon",
+      "B": "Australian Open",
+      "C": "US Open",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koliko igrača obično čini košarkašku momčad na terenu?",
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Tko je osvojio Wimbledon najviše puta u povijesti muškog tenisa?",
+      "A": "Roger Federer",
+      "B": "Rafael Nadal",
+      "C": "Novak Djokovic",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koja je najviša liga profesionalnog američkog nogometa?",
+      "A": "NFL",
+      "B": "NCAA",
+      "C": "CFL",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koliko igrača obično čini nogometnu momčad na terenu?",
+      "A": "9",
+      "B": "11",
+      "C": "13",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koji je jedini tenisač osvojio 'Golden Slam' (sva četiri Grand Slam turnira i Olimpijske igre) u istoj godini?",
+      "A": "Rafael Nadal",
+      "B": "Serena Williams",
+      "C": "Steffi Graf",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koja zemlja je domaćin prve moderne Olimpijade?",
+      "A": "Grčka",
+      "B": "Francuska",
+      "C": "SAD",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Tko je bio prvi predsjednik Sjedinjenih Američkih Država?",
+      "A": "Thomas Jefferson",
+      "B": "George Washington",
+      "C": "Abraham Lincoln",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koji događaj je označio početak Prvog svjetskog rata?",
+      "A": "Ubojstvo Franza Ferdinanda",
+      "B": "Pad Berlinskog zida",
+      "C": "Rat između Španjolske i SAD-a",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koja godina je označila završetak Drugog svjetskog rata?",
+      "A": "1945.",
+      "B": "1939.",
+      "C": "1918.",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koji je grad bio glavni centar renesanse?",
+      "A": "Firenca",
+      "B": "Rim",
+      "C": "Venecija",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koji je rimski vođa postao car nakon što se preobratio u kršćanstvo?",
+      "A": "Julije Cezar",
+      "B": "August",
+      "C": "Konstantin Veliki",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koji je američki predsjednik bio na čelu za vrijeme Velike depresije?",
+      "A": "Herbert Hoover",
+      "B": "Franklin D. Roosevelt",
+      "C": "Woodrow Wilson",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koji je događaj označio kraj Hladnog rata?",
+      "A": "Potpisivanje Sporazuma o nuklearnom razoru",
+      "B": "Razbijanje Sovjetskog Saveza",
+      "C": "Pad Berlinskog zida",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koje su dvije zemlje sudjelovale u Stogodišnjem ratu?",
+      "A": "Francuska i Njemačka",
+      "B": "Engleska i Španjolska",
+      "C": "Engleska i Francuska",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Tko je bio osnivač Mongolskog Carstva?",
+      "A": "Genghis Khan",
+      "B": "Attila Hunski",
+      "C": "Tamerlan",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koje godine je potpisana Deklaracija nezavisnosti Sjedinjenih Američkih Država?",
+      "A": "1776.",
+      "B": "1789.",
+      "C": "1799.",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koja struktura podataka koristi LIFO (Last In, First Out) princip?",
+      "A": "Queue",
+      "B": "Stack",
+      "C": "Heap",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koji jezik programiranja najčešće korišten za izradu web stranica dinamičkog sadržaja?",
+      "A": "Python",
+      "B": "JavaScript",
+      "C": "HTML",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koja se tehnika koristi za zaštitu informacija putem promjene poruke ili podataka u nečitljiv oblik?",
+      "A": "Encryption",
+      "B": "Encoding",
+      "C": "Hashing",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koja se tehnologija koristi za bezžičnu komunikaciju između uređaja u kratkom opsegu?",
+      "A": "Greenear",
+      "B": "Bluetooth",
+      "C": "Wi-Fi",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koja se tehnologija koristi za pohranu podataka u oblaku?",
+      "A": "SD Cards",
+      "B": "SSD",
+      "C": "Cloud Computing",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koja se struktura podataka koristi za brze pretrage podataka, a sastoji se od uređenog niza čvorova?",
+      "A": "Heap",
+      "B": "Tree",
+      "C": "Queue",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koja je najpopularnija platforma za razvoj mobilnih aplikacija?",
+      "A": "Android Studio",
+      "B": "Unity",
+      "C": "Xcode",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koja se tehnika koristi za optimizaciju kodiranja s ciljem ubrzanja izvršavanja programa?",
+      "A": "Debugging",
+      "B": "Refactoring",
+      "C": "Benchmarking",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koji je film dobio Oscar za najbolji film 2020. godine?",
+      "A": "1917",
+      "B": "Parazit",
+      "C": "Zvuk metala",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koja je glumica osvojila najviše Oscarovih nagrada za glavnu ulogu?",
+      "A": "Meryl Streep",
+      "B": "Katharine Hepburn",
+      "C": "Julia Roberts",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koja je zemlja producirala filmove o Jamesu Bondu?",
+      "A": "SAD",
+      "B": "Engleska",
+      "C": "Francuska",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koji je redatelj poznat po 'Trilogiji o Gospodaru prstenova'?",
+      "A": "Peter Jackson",
+      "B": "Steven Spielberg",
+      "C": "Christopher Nolan",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koja je glumica osvojila Oscar za ulogu u filmu 'La La Land'?",
+      "A": "Emma Stone",
+      "B": "Natalie Portman",
+      "C": "Jennifer Lawrence",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koja je glumica prva osvojila Oscara za najbolju glumicu?",
+      "A": "Greta Garbo",
+      "B": "Mary Pickford",
+      "C": "Janet Gaynor",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koji je film dobio najviše Oscara u povijesti filmskih nagrada?",
+      "A": "Titanic",
+      "B": "Ben-Hur",
+      "C": "Gospodar prstenova: Povratak kralja",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koji je glumac igrao ulogu Jokera u filmu 'Joker' iz 2019. godine?",
+      "A": "Heath Ledger",
+      "B": "Joaquin Phoenix",
+      "C": "Jared Leto",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koje godine je prvi put dodijeljena Oscarova nagrada za najbolji animirani film?",
+      "A": "1995.",
+      "B": "2001.",
+      "C": "2006.",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koji je redatelj 'The Shawshank Redemption' i 'The Green Mile'?",
+      "A": "David Fincher",
+      "B": "Frank Darabont",
+      "C": "Quentin Tarantino",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Što u ljudskom tijelu je odgovorno za proizvodnju crvenih krvnih stanica?",
+      "A": "Slezena",
+      "B": "Bubrezi",
+      "C": "Koštana srž",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koja je osnovna jedinica života?",
+      "A": "Mitohondrij",
+      "B": "Stanica",
+      "C": "Kromosom",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koje tijelo u biljci je odgovorno za fotosintezu?",
+      "A": "Korijen",
+      "B": "List",
+      "C": "Cvijet",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koja molekula nosi genetičku informaciju u stanici?",
+      "A": "Protein",
+      "B": "DNK",
+      "C": "RNA",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koje tijelo proizvodi inzulin u ljudskom tijelu?",
+      "A": "Pankreas",
+      "B": "Jetra",
+      "C": "Žučni mjehur",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koja životinja ima sposobnost regeneracije izgubljenih udova?",
+      "A": "Zmija",
+      "B": "Morska zvijezda",
+      "C": "Morski konjic",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koja komponenta krvi je odgovorna za zgrušavanje?",
+      "A": "Crvene krvne stanice",
+      "B": "Bijele krvne stanice",
+      "C": "Trombociti",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koja je funkcija ribosoma u stanici?",
+      "A": "Proizvodnja energije",
+      "B": "Sinteza proteina",
+      "C": "Pohranjivanje genetske informacije",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koji glazbeni instrument se svira pomoću dirki?",
+      "A": "Gitara",
+      "B": "Klavir",
+      "C": "Bubanj",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koja skala ima sedam nota?",
+      "A": "Molska skala",
+      "B": "Pentatonska skala",
+      "C": "Diatonska skala",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koja je glazbena kompozicija u tri dijela, obično s brzim početkom, spori srednji dio i brz završetak?",
+      "A": "Serenada",
+      "B": "Sonata",
+      "C": "Sinfonija",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koja vrsta glazbe potječe iz Jamajke i koristi karakterističan ritam bubnjeva?",
+      "A": "Reggae",
+      "B": "Salsa",
+      "C": "Flamenco",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Tko je frontmen legendarnog britanskog rock benda 'Queen'?",
+      "A": "Freddie Mercury",
+      "B": "Roger Taylor",
+      "C": "Brian May",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koje godine je izdan legendarni album 'Thriller' od Michaela Jacksona?",
+      "A": "1982.",
+      "B": "1987.",
+      "C": "1990.",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koji glazbeni žanr karakterizira upotreba DJ-a za miješanje glazbe uživo?",
+      "A": "Hip hop",
+      "B": "Country",
+      "C": "Techno",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koje glazbeno djelo je Beethovenova 5. simfonija?",
+      "A": "Oda radosti",
+      "B": "Simfonija sudbine",
+      "C": "Simfonija sudara",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koji glazbeni instrument ima tipke, pedale i proizvodi tonove zrakom koji prolazi kroz cijevi?",
+      "A": "Violina",
+      "B": "Harfa",
+      "C": "Orgulje",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koja je američka pjevačica osvojila najviše Grammy nagrada?",
+      "A": "Whitney Houston",
+      "B": "Beyoncé",
+      "C": "Aretha Franklin",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koja vježba se izvodi dizanjem tjelesne težine s ravne površine do brade?",
+      "A": "Zgibovi",
+      "B": "Sklekovi",
+      "C": "Squat",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koji je naziv za vježbu koja kombinira čučnjeve, sklekove i trbušnjake?",
+      "A": "Tabata",
+      "B": "Burpees",
+      "C": "Plyometrics",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koji je osnovni cilj kardio treninga?",
+      "A": "Povećanje mišićne mase",
+      "B": "Poboljšanje kardiovaskularnog zdravlja",
+      "C": "Povećanje fleksibilnosti",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koja je osnovna funkcija antibiotika?",
+      "A": "Liječenje glavobolje",
+      "B": "Liječenje bakterijskih infekcija",
+      "C": "Liječenje alergija",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Što je stetoskop?",
+      "A": "Instrument za mjerenje tlaka",
+      "B": "Instrument za pregled uha",
+      "C": "Instrument za slušanje srčanih tonova i disanja",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koja je bolest povezana s nedostatkom željeza u krvi?",
+      "A": "Anemija",
+      "B": "Hepatitis",
+      "C": "Leukemija",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koje tijelo proizvodi inzulin u ljudskom tijelu?",
+      "A": "Pankreas",
+      "B": "Jetra",
+      "C": "Žučni mjehur",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koja je bolest poznata kao 'šećerna bolest'?",
+      "A": "Hipertenzija",
+      "B": "Artritis",
+      "C": "Dijabetes",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koje tijelo proizvodi kortizol?",
+      "A": "Koža",
+      "B": "Štitnjača",
+      "C": "Nadbubrežna žlijezda",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koji je najveći organ ljudskog tijela?",
+      "A": "Srce",
+      "B": "Mozak",
+      "C": "Koža",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koja se medicinska disciplina bavi proučavanjem tumora?",
+      "A": "Onkologija",
+      "B": "Endokrinologija",
+      "C": "Hematologija",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koja životinja je najbrža na kopnu?",
+      "A": "Gepard",
+      "B": "Sova",
+      "C": "Slon",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koja životinja ima najduži vrat?",
+      "A": "Zmija",
+      "B": "Žirafa",
+      "C": "Slon",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koji sisavac ima najveći mozak u usporedbi s veličinom tijela?",
+      "A": "Slon",
+      "B": "Dupin",
+      "C": "Čimpanza",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koji je najveći sisavac na svijetu?",
+      "A": "Sivi kit",
+      "B": "Plavi kit",
+      "C": "Slon",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koja životinja ne spava nikada?",
+      "A": "Morski lav",
+      "B": "Bik",
+      "C": "Dupin",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koja ptica je poznata po svojoj sposobnosti imitiranja zvukova okoline?",
+      "A": "Golub",
+      "B": "Sova",
+      "C": "Papiga",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koja životinja ima najbolji osjet mirisa u životinjskom carstvu?",
+      "A": "Pas",
+      "B": "Medvjed",
+      "C": "Slon",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koja životinja ima najbolji vid u mraku?",
+      "A": "Vuk",
+      "B": "Mačka",
+      "C": "Sova",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koji je naziv za modni trend koji se vraća iz prošlosti?",
+      "A": "Retro",
+      "B": "Avant-garde",
+      "C": "Minimalizam",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koja je osoba poznata kao prvi supermodel?",
+      "A": "Naomi Campbell",
+      "B": "Cindy Crawford",
+      "C": "Twiggy",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Kako se naziva proces stvaranja prototipa odjeće?",
+      "A": "Casting",
+      "B": "Styling",
+      "C": "Pattern making",
+      "tocanOdgovor": "C"
+    },
+    {
+      "pitanje": "Koji je naziv za modni trend u kojem se koristi recikliran materijal za izradu odjeće?",
+      "A": "Sustainable fashion",
+      "B": "Fast fashion",
+      "C": "Haute couture",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koja je osoba dizajnirala prvu minicu?",
+      "A": "Coco Chanel",
+      "B": "Mary Quant",
+      "C": "Vivienne Westwood",
+      "tocanOdgovor": "B"
+    },
+    {
+      "pitanje": "Koji je osnovni materijal za izradu denim odjeće?",
+      "A": "Pamuk",
+      "B": "Vuna",
+      "C": "Svila",
+      "tocanOdgovor": "A"
+    },
+    {
+      "pitanje": "Koja je visoka modna odjeća izrađena po mjeri za individualne klijente?",
+      "A": "Pret-a-Porter",
+      "B": "Haute couture",
+      "C": "Streetwear",
+      "tocanOdgovor": "B"
+    },
+     
+    { 
+      "pitanje": "Koje godine je počeo Drugi svjetski rat?", 
+      "A": "1939", 
+      "B": "1941", 
+      "C": "1945", 
+      "tocanOdgovor": "A" 
+    },
+    {
+      "pitanje": "Koji je glavni grad Australije?", 
+      "A": "Melbourne", 
+      "B": "Canberra", 
+      "C": "Sydney", 
+      "tocanOdgovor": "B" 
+    },
+     { 
+       "pitanje": "Koja je najpopularnija sportska liga u svijetu?", "A": "NBA", "B": "Premier League", "C": "NFL", "tocanOdgovor": "B" }, 
+    { 
+      "pitanje": "Koja je najpoznatija slika Leonarda da Vincija?", 
+      "A": "Mona Lisa", 
+      "B": "Posljednja večera", 
+      "C": "Vitruvijev čovjek", 
+      "tocanOdgovor": "A" },
+    { 
+      "pitanje": "Tko je napisao roman 'Rat i mir'?", 
+      "A": "Fjodor Dostojevski", 
+      "B": "Lev Tolstoj", 
+      "C": "Charles Dickens", 
+      "tocanOdgovor": "B" 
+    },
+    { 
+      "pitanje": "Koje godine je prvi put čovjek sletio na Mjesec?", 
+      "A": "1969", 
+      "B": "1972", 
+      "C": "1975", 
+      "tocanOdgovor": "A" 
+    },
+    { 
+      "pitanje": "Koji bend je izveo pjesmu 'Bohemian Rhapsody'?", 
+      "A": "The Beatles", 
+      "B": "Queen", 
+      "C": "Led Zeppelin", 
+      "tocanOdgovor": "B" 
+    },
+    { "pitanje": "Koja je najveća pustinja na svijetu?", 
+      "A": "Sahara", 
+      "B": "Gobi", 
+      "C": "Antarktika", 
+      "tocanOdgovor": "A" 
+    } ,
+    { 
+      "pitanje": "Koliko je kvadratni korijen od 144?", 
+      "A": "12", 
+      "B": "11", 
+      "C": "13", 
+      "tocanOdgovor": "A" } ,
+    { 
+      "pitanje": "Koliko je 15 * 4?", 
+      "A": "60", 
+      "B": "56", 
+      "C": "64", 
+      "tocanOdgovor": "A" 
+    },
+    { 
+      "pitanje": "Koliko je 7^3?", 
+      "A": "21", 
+      "B": "49", 
+      "C": "343", 
+      "tocanOdgovor": "C"
+    },
+    { 
+      "pitanje": "Koja je  formula za izračunavanje površine kruga?", 
+      "A": "P = 2πr", 
+      "B": "P = πr^2", 
+      "C": "P = πd", 
+      "tocanOdgovor": "B" 
+    },
+    {
+      "pitanje": "Koje?",
+      "A": "Mara",
+      "B": "Jipp",
+      "C": "škibidi",
+      "tocanOdgovor": "C"
+    }
+  ]
+}

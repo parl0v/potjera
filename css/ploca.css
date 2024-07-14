@@ -1,0 +1,137 @@
+body {
+  background: #09183e;
+  color: white;
+}
+
+.lovac,
+.pogodak,
+.tocno {
+  color: black;
+}
+
+.lovac::first-letter {
+  background-color: #e50105;
+
+  font-weight: bold;
+}
+
+.pogodak {
+  background-color: #0e7689;
+}
+
+.tocno {
+  background-color: #3e9947
+}
+
+button {
+  background-color: #738ab0;
+  color: white;
+}
+
+.ploča {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #09183e;
+  padding: 70px;
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+}
+
+.tablice {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 80px;
+  align-items: center;
+}
+
+.tablica {
+  font-size: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 500px;
+  height: 80px;
+  background-color: #14285d;
+}
+
+.opcije {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 90px;
+}
+
+.novo {
+  background-color: #a4bcdf;
+}
+
+.novo:hover {
+  background-color: #90a6c6;
+}
+
+.opcija,
+.novo {
+  padding: 10px 10px;
+  font-size: 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  max-width: 200px;
+  margin: 0 10px 10px;
+}
+
+.opcija:enabled:hover {
+  background-color: #0d448c;
+  ;
+}
+
+.ponuda {
+  width: 500px;
+  height: 80px;
+  background: none;
+  border: none;
+}
+
+.ponuda:hover {
+  background-color: #1e3799;
+}
+
+#pPitanje {
+  font-size: 26px;
+}
+
+.korisnikPozicija {
+  background-color: #143452;
+}
+
+.gotovoPolje {
+  background-color: #03b5d3;
+}
+
+.lovacPolje {
+  background-color: #fc0102;
+}
+
+.podnozje {
+  position: static;
+  display: inline-block;
+  left: 0;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  background-color:  #14285d;
+  color: white;
+  text-align: center;
+  margin-top:20px;
+}
+
+#tekstPodnozje
+{
+  font-size: 15px;
+}
